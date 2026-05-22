@@ -1,37 +1,43 @@
-# Evan Rovelli
+## Hey, I'm Evan 👋
 
-Backend and systems engineer. Java, Rust, AWS.
+Backend and systems engineer. Java, Rust, AWS. I build things I actually use.
 
-## Current projects
+---
 
-**[tidyup](https://github.com/erovelli/tidyup)** · Rust, Tokio, ONNX Runtime, SQLite, Dioxus
+### What I'm building
 
-On-device CLI + desktop app that classifies files by content, not extension. 11-crate hexagonal workspace with a 3-tier inference cascade (heuristics → ONNX embeddings → optional local LLM). Default binary links no HTTP client and no LLM runtime, enforced by a CI privacy audit. Atomic bundle moves with BLAKE3 verification and run-keyed rollback.
+🗂️ **[tidyup](https://github.com/erovelli/tidyup)** · `Rust` `Tokio` `ONNX Runtime` `SQLite` `Dioxus`
 
-**[Medicaid Dental Utilization Atlas](https://github.com/erovelli/medicaid-dent-policy)** · TypeScript, React, MapLibre GL, PostgreSQL, Python · [Live site](https://erovelli.github.io/medicaid-dent-policy/)
+Local-first file organizer that classifies by content, not extension. 11-crate hexagonal workspace, 3-tier inference cascade, and a default binary that ships with no HTTP client and no LLM, enforced by CI.
 
-Interactive choropleth mapping U.S. Medicaid dental claims across all 50 states at state and ZIP3 granularity, 2018-2024. Transforms ~60 GB of raw HHS and NPPES provider data into a ~5 MB static site with feature-state-driven recoloring, lazy-loaded monthly drill-down and zero backend infrastructure.
+🗺️ **[Medicaid Dental Atlas](https://github.com/erovelli/medicaid-dent-policy)** · `TypeScript` `React` `MapLibre GL` `PostgreSQL` · [Live](https://erovelli.github.io/medicaid-dent-policy/)
 
-**[utils](https://github.com/erovelli/utils)** · Rust, WebAssembly
+~60 GB of raw federal dental claims data → a ~5 MB interactive choropleth. State and ZIP3 granularity, 2018–2024, zero backend.
 
-Browser-based utilities compiled from Rust to WASM. No data harvesting, no ads, no tracking. Currently includes a deterministic password generator. Auto-deploys to GitHub Pages on push.
+🛠️ **[utils](https://github.com/erovelli/utils)** · `Rust → WebAssembly` · [Live](https://erovelli.github.io/utils/)
 
-## Smaller tools
+Small browser tools compiled from Rust. No tracking, no ads, no data collection.
 
-**[strava-forwarder](https://github.com/erovelli/strava-forwarder)** · Python, Strava API, Google Sheets API
+🏃 **[strava-forwarder](https://github.com/erovelli/strava-forwarder)** · `Python`
 
-Polls Strava for Apple Watch fitness sessions and writes activity names and durations to a shared Google Sheet on a daily cron. Built to support group accountability without a third-party app in the middle.
+Apple Watch → Strava → Google Sheets on a daily cron. Group fitness accountability without a middleman app.
 
-## Past work
+---
 
-**[ModuLoop](https://github.com/cpcurtin/SDP-Team-28)** · C++, ARM Cortex-M7, I2S, QSPI, SPI
+### Past work
 
-Hardware music sequencer on a Teensy 4.1. Led software architecture and hardware integration for a 4-engineer senior design team at UMass Amherst. MVC navigation over a custom struct tree, QSPI PSRAM sound cache to defeat SD latency, persistent track storage via ArduinoJSON. 4-sound polyphony, ±2% timing accuracy at 200 BPM.
+🎹 **[ModuLoop](https://github.com/cpcurtin/SDP-Team-28)** · `C++` `Teensy 4.1 (ARM Cortex-M7)`
 
-## Day job
+Hardware music sequencer. Led software architecture for a 4-engineer senior design team at UMass Amherst. Hand-soldered QSPI PSRAM to defeat SD latency, hit 4-sound polyphony at ±2% timing accuracy.
 
-Full Stack Engineer at Fidelity Investments. Batch platforms, billing systems, AWS infrastructure, Spring Boot. Previously Associate Software Engineer and two-time intern at the same company.
+---
 
-## Links
+### Day job
 
-- [LinkedIn](https://www.linkedin.com/in/erovelli)
+Full Stack Engineer @ Fidelity Investments. Batch platforms, billing systems, AWS, Spring Boot.
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/erovelli">LinkedIn</a> · <a href="mailto:evan.rovelli@gmail.com">Email</a>
+</p>
