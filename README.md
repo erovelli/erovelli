@@ -1,6 +1,6 @@
 ## Hey, I'm Evan 👋
 
-Backend and systems engineer. Java, Rust, AWS. I build things I actually use.
+Long term bullish on rust🦀
 
 ---
 
