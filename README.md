@@ -30,6 +30,8 @@ Hardware music sequencer. Led software architecture for a 4-engineer senior desi
 🏃 **[strava-forwarder](https://github.com/erovelli/strava-forwarder)** · `Python`
 
 Apple Watch → Strava → Google Sheets on a daily cron. Group fitness accountability without a middleman app.
+
+
 ---
 
 ### Day job
