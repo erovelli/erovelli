@@ -18,9 +18,6 @@ Local-first file organizer that classifies by content, not extension. 11-crate h
 
 Small browser tools compiled from Rust. No tracking, no ads, no data collection.
 
-🏃 **[strava-forwarder](https://github.com/erovelli/strava-forwarder)** · `Python`
-
-Apple Watch → Strava → Google Sheets on a daily cron. Group fitness accountability without a middleman app.
 
 ---
 
@@ -30,6 +27,9 @@ Apple Watch → Strava → Google Sheets on a daily cron. Group fitness accounta
 
 Hardware music sequencer. Led software architecture for a 4-engineer senior design team at UMass Amherst. Hand-soldered QSPI PSRAM to defeat SD latency, hit 4-sound polyphony at ±2% timing accuracy.
 
+🏃 **[strava-forwarder](https://github.com/erovelli/strava-forwarder)** · `Python`
+
+Apple Watch → Strava → Google Sheets on a daily cron. Group fitness accountability without a middleman app.
 ---
 
 ### Day job
