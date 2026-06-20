@@ -18,6 +18,10 @@ Local-first file organizer that classifies by content, not extension. 11-crate h
 
 Small browser tools compiled from Rust. No tracking, no ads, no data collection.
 
+🕸️ **[Outdegree](https://github.com/erovelli/outdegree)** · `Rust → WebAssembly` `Chrome MV3` · 🚧 WIP
+
+Chrome extension that graphs how you traverse the web. Event-sourced, Rust/WASM core, with an interactive force-directed graph of your browsing.
+
 
 ---
 
