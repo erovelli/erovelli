@@ -10,9 +10,9 @@ Long term bullish on rust🦀
 
 Local-first file organizer that classifies by content, not extension. 11-crate hexagonal workspace, 3-tier inference cascade, and a default binary that ships with no HTTP client and no LLM, enforced by CI.
 
-🗺️ **[Medicaid Dental Atlas](https://github.com/erovelli/medicaid-dent-policy)** · `TypeScript` `React` `MapLibre GL` `PostgreSQL` · [Live](https://erovelli.github.io/medicaid-dent-policy/)
+🗺️ **[Medicaid Dental Atlas](https://github.com/erovelli/medicaid-dent-policy)** · `TypeScript` `React` `MapLibre GL` `DuckDB` · [Live](https://erovelli.github.io/medicaid-dent-policy/)
 
-~60 GB of raw federal dental claims data → a ~5 MB interactive choropleth. State and ZIP3 granularity, 2018–2024, zero backend.
+~60 GB of raw federal dental claims data → a ~6 MB interactive choropleth. State, county, and ZIP3 granularity, 2018–2024.
 
 🛠️ **[utils](https://github.com/erovelli/utils)** · `Rust → WebAssembly` · [Live](https://erovelli.github.io/utils/)
 
