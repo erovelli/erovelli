@@ -18,9 +18,9 @@ Local-first file organizer that classifies by content, not extension. 11-crate h
 
 Small browser tools compiled from Rust. No tracking, no ads, no data collection.
 
-🕸️ **[Outdegree](https://github.com/erovelli/outdegree)** · `Rust → WebAssembly` `Chrome MV3` · 🚧 WIP
+🧭 **[Outdegree](https://github.com/erovelli/outdegree)** · `Rust → WebAssembly` `Chrome MV3` · [Chrome Web Store](https://chromewebstore.google.com/detail/outdegree/kjmjfehjgbcgibkbekgacfgibfmglmod)
 
-Chrome extension that graphs how you traverse the web. Event-sourced, Rust/WASM core, with an interactive force-directed graph of your browsing.
+Your browsing as an interactive force-directed graph — sessions, hubs, and where your attention actually goes. Event-sourced Rust/WASM core; 100% local with zero network egress, browser-enforced and CI-audited.
 
 
 ---
