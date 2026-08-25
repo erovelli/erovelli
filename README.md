@@ -10,9 +10,9 @@ Long term bullish on rust🦀
 
 Local-first file organizer that classifies by content, not extension. 11-crate hexagonal workspace, 3-tier inference cascade, and a default binary that ships with no HTTP client and no LLM, enforced by CI.
 
-🗺️ **[Medicaid Dental Atlas](https://github.com/erovelli/medicaid-dent-policy)** · `TypeScript` `React` `MapLibre GL` `DuckDB` · [Live](https://erovelli.github.io/medicaid-dent-policy/)
+🦷 **[CHOMP](https://github.com/erovelli/CHOMP)** · `TypeScript` `React` `MapLibre GL` `PMTiles` `DuckDB` · [Live](https://chomp.share.library.harvard.edu/)
 
-~60 GB of raw federal dental claims data → a ~6 MB interactive choropleth. State, county, and ZIP3 granularity, 2018–2024.
+~60 GB of raw HHS Medicaid dental claims + NPPES data → a ~6 MB static interactive choropleth. State, county, and ZIP3 utilization across all 12 CDT/ADA procedure categories, 2018–2024, with monthly drill-down, per-enrollee rates, and PNG/JPEG/CSV export.
 
 🛠️ **[utils](https://github.com/erovelli/utils)** · `Rust → WebAssembly` · [Live](https://erovelli.github.io/utils/)
 
