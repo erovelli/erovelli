@@ -10,7 +10,7 @@ Long term bullish on rust🦀
 
 Local-first file organizer that classifies by content, not extension. 11-crate hexagonal workspace, 3-tier inference cascade, and a default binary that ships with no HTTP client and no LLM, enforced by CI.
 
-🦷 **[CHOMP](https://github.com/erovelli/CHOMP)** · `TypeScript` `React` `MapLibre GL` `PMTiles` `DuckDB` · [Live](https://chomp.share.library.harvard.edu/)
+🦷 **[C.H.O.M.P.](https://github.com/erovelli/CHOMP)** · `TypeScript` `React` `MapLibre GL` `PMTiles` `DuckDB` · [Live](https://chomp.share.library.harvard.edu/)
 
 ~60 GB of raw HHS Medicaid dental claims + NPPES data → a ~6 MB static interactive choropleth. State, county, and ZIP3 utilization across all 12 CDT/ADA procedure categories, 2018–2024, with monthly drill-down, per-enrollee rates, and PNG/JPEG/CSV export.
 
